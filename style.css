@@ -1,1 +1,7 @@
 img {display: block;margin-left: auto;margin-right: auto;width: 50%;}
+title {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
