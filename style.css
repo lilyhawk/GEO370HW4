@@ -2,8 +2,9 @@ img {display: block;margin-left: auto;margin-right: auto;width: 50%;}
 title {
   margin: auto;
   width: 50%;
-  border: 3px solid green;
+  border: 3px solid slategray;
   padding: 10px;
+  background-color: aliceblue;
 }
 h1 {font-family: 'Noto Serif Display', serif;
     font-weight: bold;
