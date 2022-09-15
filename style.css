@@ -31,5 +31,9 @@ h2 {font-family: 'Montserrat', sans-serif;
 p {font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   text-align: center;
+}
 
+div.footer {font-style: italic;
+font-weight: 300;
+margin-bottom: 50px
 }
