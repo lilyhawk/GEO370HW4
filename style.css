@@ -35,5 +35,8 @@ p {font-family: 'Montserrat', sans-serif;
 
 div.footer {font-style: italic;
 font-weight: 300;
-margin-bottom: 50px
+font-size: 12pt;
+margin-bottom: 50px;
+margin-top: 25;
+
 }
